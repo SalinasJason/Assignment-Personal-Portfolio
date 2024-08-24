@@ -1,2 +1,5 @@
 /*Description: Primary stylesheet for my portfolio website
 Author: Jason Salinas*/
+header {
+    background-color: gray;
+}
