@@ -7,6 +7,10 @@ header {
     text-align: center;
 }
 
+Body {
+    font-size: 185%;
+}
+
 footer {
     background-color: black;
     color: white;
@@ -14,5 +18,7 @@ footer {
     position: fixed;
     bottom: 0%;
     width: 100%
+    
+    
     
 }
