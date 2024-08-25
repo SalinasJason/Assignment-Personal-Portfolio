@@ -9,7 +9,7 @@ header {
 }
 
 Body {
-    font-size: 185%;    /* This is the styling for the body */
+    font-size: 185%;    /* This is the styling for the body, reason why font size is 185% is because it didn't look good small */
     font-family: 'Times New Roman';
 }
 
@@ -20,5 +20,4 @@ footer {
     position: fixed;
     bottom: 0%;
     width: 100%
-    
 }
