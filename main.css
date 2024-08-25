@@ -1,18 +1,20 @@
-/*Description: Primary stylesheet for my portfolio website
+/*Description: Primary stylesheets for my portfolio website
 Author: Jason Salinas*/
+
 header {
-    background-color: black;
+    background-color: black;    /*This is the styling for header */
     font-size: 30px; 
     color: white;
     text-align: center;
 }
 
 Body {
-    font-size: 185%;
+    font-size: 185%;    /* This is the styling for the body */
+    font-family: 'Times New Roman';
 }
 
 footer {
-    background-color: black;
+    background-color: black;    /* This is the styling for the footer */
     color: white;
     text-align: center;
     position: fixed;
